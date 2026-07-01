@@ -1,24 +1,26 @@
-# Practice LFCS トレーニング プログラミングコース
+# LFCS トレーニング Practice Courses
 
-## 言語
+**言語:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+<p align="center">
+  <a href="https://labex.io/ja/learn/lfcs">
+    <img width="128" src="https://file.labex.io/path/OMeAELrqi3Ff.png" alt="LFCS トレーニング">
+  </a>
+</p>
 
-<div align="center">
-<img width="128px" src="https://file.labex.io/path/OMeAELrqi3Ff.png">
-</div>
+Linux Foundation Certified System Administrator（LFCS）試験に向けた、体系的かつ実践的な学習パスです。主要ディストリビューションにおける実務的な Linux 管理、パフォーマンスベースのタスク、現実のシナリオに焦点を当てます。LFCS コース、ラボ、模擬試験の演習は順次追加され、LFCS の目標に沿ったスキルを育成します。
 
-Linux Foundation Certified System Administrator（LFCS）試験に向けた、体系的かつ実践的な学習パスです。主要ディストリビューションにおける実務的な Linux 管理、パフォーマンスベースのタスク、現実のシナリオに焦点を当てます。LFCS コース、ラボ、模擬試験の演習は順次追加され、LFCS の目標に沿ったコマンドラインの習熟、サービス管理、ストレージ、ネットワーク、セキュリティ、トラブルシューティングスキルを育成します。
+[LabEx でコースを見る](https://labex.io/ja/learn/lfcs)
 
-|   インデックス | 名前                                                                         | 難易度   | Repo                                                          | 練習                                                           |
-|----------|----------------------------------------------------------------------------|-------|---------------------------------------------------------------|--------------------------------------------------------------|
-|        1 | [LFCS 対策コース](https://labex.io/ja/courses/lfcs-prep)                        | 初級    | [🔗 Repo](https://github.com/labex-labs/lfcs-prep)             | [🚀 ラボを開始](https://labex.io/ja/courses/lfcs-prep)             |
-|        2 | [LFCS 模擬試験 01](https://labex.io/ja/courses/lfcs-practice-exam-01)          | 中級    | [🔗 Repo](https://github.com/labex-labs/lfcs-practice-exam-01) | [🚀 ラボを開始](https://labex.io/ja/courses/lfcs-practice-exam-01) |
-|        3 | [LFCS Practice Exam 02](https://labex.io/ja/courses/lfcs-practice-exam-02) | 中級    | [🔗 Repo](https://github.com/labex-labs/lfcs-practice-exam-02) | [🚀 ラボを開始](https://labex.io/ja/courses/lfcs-practice-exam-02) |
+|   インデックス | コース                                                                        | 難易度   | リポジトリ                                                       | 練習                                                         |
+|----------|----------------------------------------------------------------------------|-------|-------------------------------------------------------------|------------------------------------------------------------|
+|        1 | [LFCS 対策コース](https://labex.io/ja/courses/lfcs-prep)                        | 初級    | [Repo](https://github.com/labex-labs/lfcs-prep)             | [ラボを開始](https://labex.io/ja/courses/lfcs-prep)             |
+|        2 | [LFCS 模擬試験 01](https://labex.io/ja/courses/lfcs-practice-exam-01)          | 中級    | [Repo](https://github.com/labex-labs/lfcs-practice-exam-01) | [ラボを開始](https://labex.io/ja/courses/lfcs-practice-exam-01) |
+|        3 | [LFCS Practice Exam 02](https://labex.io/ja/courses/lfcs-practice-exam-02) | 中級    | [Repo](https://github.com/labex-labs/lfcs-practice-exam-02) | [ラボを開始](https://labex.io/ja/courses/lfcs-practice-exam-02) |
 
-## その他
+[LabEx でもっと見る](https://labex.io/ja/learn/lfcs)
 
-- 🔗 [LFCS トレーニング 無料チュートリアル](https://github.com/labex-labs/lfcs-free-tutorials)
-- 🔗 [素晴らしいプログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [素晴らしいプログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+## About LabEx
+
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 
